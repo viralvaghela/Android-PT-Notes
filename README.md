@@ -34,5 +34,5 @@ frida -U -f com.app.test -l D:\Open_tools\platform-tools\fridascript.js --pause
 
 ## Other links
 [SSL By Pass Patching](https://github.com/ilya-kozyr/android-ssl-pinning-bypass)
-
+[Resources by Mobexler](https://www.mobexler.com/resource)
 
